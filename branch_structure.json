@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1312-cover-get-price-behavior-in-examples-oracle",
+    "fix/issue-1335-cover-transfer-behavior-in-examples-token",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1312-cover-get-price-behavior-in-examples-oracle": "main",
+    "fix/issue-1335-cover-transfer-behavior-in-examples-token": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1312-cover-get-price-behavior-in-examples-oracle",
+    "fix/issue-1335-cover-transfer-behavior-in-examples-token",
+    "origin"
+  ]
+}
